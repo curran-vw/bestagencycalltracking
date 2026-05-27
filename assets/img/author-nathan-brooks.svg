@@ -1,0 +1,6 @@
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Author photo placeholder for Nathan Brooks, agency operations analyst covering agency call tracking">
+  <defs><linearGradient id="nb-g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#334155"/><stop offset="1" stop-color="#1E293B"/></linearGradient></defs>
+  <circle cx="60" cy="60" r="60" fill="url(#nb-g)"/>
+  <rect x="0" y="104" width="120" height="16" fill="#2563EB"/>
+  <text x="60" y="74" text-anchor="middle" font-family="'Inter Tight', Inter, sans-serif" font-weight="700" font-size="42" fill="#FFFFFF" letter-spacing="-2">NB</text>
+</svg>

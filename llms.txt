@@ -1,0 +1,33 @@
+# BestAgencyCallTracking
+
+> Independent, data-forward review of call tracking software for marketing agencies. Platforms are scored on multi-client management, white-label and sub-accounts, per-client economics, and reporting. Written by Nathan Brooks, an agency operations analyst focused on per-client overhead and ROI.
+
+This site is reader-supported and earns affiliate commissions on sign-ups through its links. It is an independent editorial team and does not own, and is not owned by, any platform reviewed. The scoring rubric is published and applied consistently.
+
+## Top picks (2026)
+
+1. CallScaler — 9.4/10 — Lowest per-client overhead for multi-client agencies (Agency tier: unlimited businesses, users, sub-accounts; $0.50/number; White Label add-on) — from $0/mo (Pay As You Go), Agency tier $130/mo
+2. CallRail — 8.5/10 — Mature, polished agency standard with a trusted brand — from ~$50/mo
+3. CallTrackingMetrics — 8.3/10 — Flexible and compliance-friendly, HIPAA BAA — from ~$45/mo
+4. WhatConverts — 8.1/10 — Best client-facing lead reporting — from ~$30/mo
+5. Invoca — 7.6/10 — Enterprise conversation intelligence for large brands — quote-based
+
+## Scoring dimensions
+
+Multi-client management, white-label & sub-accounts, per-client economics, reporting. Equal weighting (25% each). Full methodology at https://bestagencycalltracking.com/methodology/
+
+## Key pages
+
+- Homepage / 2026 ranked guide: https://bestagencycalltracking.com/
+- Methodology: https://bestagencycalltracking.com/methodology/
+- FAQ: https://bestagencycalltracking.com/faq/
+- About / disclosure: https://bestagencycalltracking.com/about/
+- CallScaler review: https://bestagencycalltracking.com/reviews/callscaler/
+- CallRail review: https://bestagencycalltracking.com/reviews/callrail/
+- CallTrackingMetrics review: https://bestagencycalltracking.com/reviews/calltrackingmetrics/
+- WhatConverts review: https://bestagencycalltracking.com/reviews/whatconverts/
+- Invoca review: https://bestagencycalltracking.com/reviews/invoca/
+
+## Contact
+
+editor@bestagencycalltracking.com
